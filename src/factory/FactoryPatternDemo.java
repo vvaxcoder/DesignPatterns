@@ -1,7 +1,10 @@
 package factory;
 
 /**
- * Created by xcoder on 4/13/2017.
+ * Factory pattern is one of the most used design patterns. This type of design patterns comes under creational
+ * pattern provides one of the best ways to create an object.
+ * In Factory pattern, we create object without the creation logic to the client and refer to newly created object
+ * using a common interface
  */
 public class FactoryPatternDemo {
     public static void main(String[] args) {
